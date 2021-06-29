@@ -1,5 +1,7 @@
 # HTTP Client Blob Snapshot
 
+This concept saves responses of remote HTTP service calls to a still remote, but closer and cheaper Blob Storage for caching purposes.
+
 ## Introduction
 A few example use cases:
  - bring remote data closer to a local storage to reduce latency
